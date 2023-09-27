@@ -1,0 +1,17 @@
+{
+	"name": "nwaobasicdatafactory",
+	"properties": {
+		"globalParameters": {
+			"globalaggregateparameter": {
+				"type": "int",
+				"value": 2020
+			}
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "65017b30-d375-40e9-9f60-7628bf1e4d8f",
+		"tenantId": "cd6683a6-aa85-46cf-aeea-92d4a1477009"
+	}
+}

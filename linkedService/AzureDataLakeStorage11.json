@@ -1,0 +1,12 @@
+{
+	"name": "AzureDataLakeStorage11",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://nwaobasicdatalake.dfs.core.windows.net/",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQEEwN0Y0MUUxLUU2NjItNDhERi1BRTQ5LTA2NUYxNDVFMTgwOV85OTVhMTBiZS0xOTVlLTQyNGEtOGFlYy0wNjg4YzQxNmMyNWMiDQp9"
+		}
+	}
+}
